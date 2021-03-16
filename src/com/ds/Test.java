@@ -7,6 +7,7 @@ public class Test {
 	}
 
 	private static void m2(String string) {
+
 		// TODO Auto-generated method stub
 		
 	}
